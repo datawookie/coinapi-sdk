@@ -11,7 +11,7 @@ namespace CoinAPI.REST.V1.Example
     {
         static void Main(string[] args)
         {            
-            var coinApiEndpointTester = new CoinApiRestEndpointsTester("4FAB4B58-9D8F-4CFF-9FB3-83833109584E")
+            var coinApiEndpointTester = new CoinApiRestEndpointsTester("f6736db3-cfbf-4d8e-890b-c347b17a50e0")
             {
                 Log = s => Console.WriteLine(s)
             };
